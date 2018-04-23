@@ -1,0 +1,13 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+
+.item2 {
+  font-family: "Ubuntu Condensed", serif;
+}
+.item3 {
+  font-family: "Ubuntu Condensed", serif;
+}
+.item4 {
+  font-family: "Playfair Display", serif;
+}
